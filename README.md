@@ -7,8 +7,8 @@ This encryption method has perfect secrecy however the downside is the key is ve
 
 There is a CLI tool and a GUI tool, both have the same functionality but a different interface.
 
-![alt text](https://raw.githubusercontent.com/neoedenergo/OTP-Encryption/refs/heads/main/image2.png)
+![Image1](/image2.png)
 
-![alt text](https://raw.githubusercontent.com/neoedenergo/OTP-Encryption/refs/heads/main/image1.png)
+![Image2](/image1.png)
 
-![alt text](https://raw.githubusercontent.com/neoedenergo/OTP-Encryption/refs/heads/main/image3.png)
+![Image3](/image3.png)
